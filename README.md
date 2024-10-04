@@ -34,7 +34,7 @@ To install the Oculus XR Plugin follow the instructions on this link: https://de
 
 ### How to run this project
 
-1 - Download and unzip the GitHub project
+1 - Download and unzip the GitHub project (you also need to unzip the "Models" folder)
 2 - Open a new Unity project using the stock 3D template
 3 - Install the necessary packages (mentioned in the previous section) using the Package Manager/Unity Asset Store
 4 - Drag and drop the unzipped GitHub project files into the Unity project's "Assets" folder
