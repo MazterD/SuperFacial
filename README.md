@@ -2,7 +2,7 @@
 
 This repository is being used to host the code and assets for the first experiment in the Master of Science thesis titled "SuperFacial: Enhancing Facial Expressions Using Avatar Distortions to Improve Collaboration in Virtual Environments", written by Afonso Dias and supervised by Prof. Joaquim Jorge, both affiliated with Instituto Superior Técnico. The objective of this program is to verify the impact of using distortions to exaggerate facial expressions in VR. We aim to study the effects of this technique in the facial expressions' recognition by our users.
 
-Link to the GitHub repository hosting the first experiment's prototype: https://github.com/MazterD/SuecaMoji
+Link to the GitHub repository hosting the second experiment's prototype: https://github.com/MazterD/SuecaMoji
 
 ### Introduction
 
